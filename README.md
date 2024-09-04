@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m **DesmondJS**, currently a Year 2 computer science student in UTAR<br>- 👀 I’m interested in GPU computing,  and software development<br>- 🌱 I’m currently learning Efficient Parallel Implementation of UOV Signature Scheme on GPU platforms<br>- 📫 How to reach me:<br>    - Email: desmondhjs@gmail.com
+- 👋 Hi, I’m **DesmondJS**, currently a Year 2 computer science student in UTAR<be>
+- 👀 I’m interested in GPU computing,  and software development<be>
+- 🌱 I’m currently learning Efficient Parallel Implementation of UOV Signature Scheme on GPU platforms<be>
+- 📫 How to reach me:<br>
+  - Email: desmondhjs@gmail.com
 
 
 ## 🌐 Socials:
