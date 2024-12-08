@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m **DesmondJS**, currently a Year 2 computer science student in UTAR<be>
+- 👋 Hi, I’m **DesmondJS**, currently a Year 3 computer science student in UTAR<be>
 - 👀 I’m interested in GPU computing,  and software development<be>
 - 🌱 I’m currently learning Efficient Parallel Implementation of UOV Signature Scheme on GPU platforms<be>
 - 📫 How to reach me:<br>
