@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m **DesmondJS**, currently a Year 3 computer science student in UTAR<be>
+- 👋 Hi, I’m **DesmondJS**, a computer science graduand from UTAR<be>
 - 👀 I’m interested in GPU computing,  and software development<be>
-- 🌱 I’m currently learning Efficient Parallel Implementation of McEliece Signature Scheme on GPU platforms<be>
+- 🌱 My FYP title: Efficient Parallel Implementation of McEliece Signature Scheme on GPU platforms<be>
 - 📫 How to reach me:<br>
   - Email: desmondhjs@gmail.com
 
