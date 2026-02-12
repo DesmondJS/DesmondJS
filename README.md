@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m **DesmondJS**, a computer science graduand from UTAR<be>
+- 👋 Hi, I’m **DesmondJS**, a computer science graduate from UTAR<be>
 - 👀 I’m interested in GPU computing,  and software development<be>
 - 🌱 My FYP title: Efficient Parallel Implementation of McEliece Signature Scheme on GPU platforms<be>
 - 📫 How to reach me:<br>
